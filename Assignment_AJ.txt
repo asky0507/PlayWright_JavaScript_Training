@@ -1,5 +1,6 @@
-Datatype Assignement
+Datatype Assignment
 ====================================
 //AJAY TEST
+//testing github pull to my working VSCode DIR PS C:\Users\asky0\PlayWrt_JavaScriptTraining>
 1. Identify the Datatype
-Create vaiable 
+Create variable 
