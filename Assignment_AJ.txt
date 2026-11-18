@@ -1,0 +1,5 @@
+Datatype Assignement
+====================================
+//AJAY TEST
+1. Identify the Datatype
+Create vaiable 
